@@ -1,0 +1,84 @@
+html {
+    background-color: #262626;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#grad {
+    background: linear-gradient(to right, #2e25ab, #ff00c8);
+    padding: 10px;
+    border-radius: 15px 15px 0px 0px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.782);
+}
+b {
+    margin= 0px;
+    padding= 10px;
+    box-sizing= border-box;
+    font-size:20px;
+    color: #ffffff;
+    text-shadow: 0px 1px 3px #000000d2;
+    
+}
+
+.header {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.782);
+    background-color: #191b1d63;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    length: 10px;
+    text-align: left;
+    border-radius: 15px 15px 15px 15px;
+
+}
+
+legend {
+    text-align: center;
+}
+
+select {
+    border-radius: 5px;
+    border: 1px solid #324275;
+    background-color: #a6e7ff5c;
+}
+
+option {
+    font-size: 16px;
+    color: #4f565b;
+    font-style: italic;
+}
+fieldset {
+    width: 35%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #b8d6fffa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.782);
+}
+
+table {
+    margin: auto;
+    padding: 10px;
+}
+
+td {
+    padding: 5px;
+    font-size: 16px;
+    color: #1a1a1a;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+input {
+    border-radius: 5px;
+    border: 1px solid #2e25ab;
+    background-color: #fcf0ff98;
+}
+
+textarea {
+    border-radius: 5px;
+    border: 1px solid #2e25ab;
+    background-color: #fcf0ff98;
+}
